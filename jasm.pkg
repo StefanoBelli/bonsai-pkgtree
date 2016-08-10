@@ -1,0 +1,18 @@
+DESCRIPTION="JASM System Monitor"
+URL="https://github.com/AlessandroSpallina/JASM"
+VERSION="0.0.1"
+SRC_URL=""
+HASH=""
+
+configure ()
+{
+ 
+}
+
+build ()
+{
+}
+
+merge ()
+{
+}
